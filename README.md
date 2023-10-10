@@ -1,1 +1,3 @@
 # PodcastSummaryUsingBedrock
+
+In this notebook we will explore using Amazon Bedrock to generate a concise yet meaningful summary of a podcast. Reading the podcast's title or description doesn't always help and doesn't always accurately reflect the quality or the content. What if there is a way to get a deeper, meaningful yet concise summary and using that to select the podcast? In this post, we will explore the art of possibility with the Amazon Bedrock and using one of the foundational large-language models (LLM).
